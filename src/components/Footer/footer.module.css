@@ -1,0 +1,29 @@
+.footer{
+    background-color: #333d51;
+    color: white;
+   /* margin-top: 100px;*/
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.ulFooter{
+    list-style-type: none;
+    margin: 0 300px;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+}
+.h6Footer{
+    font-size: 15px;
+    margin-top: 10%;
+}
+.h6Footer1{
+    font-weight: bold;
+    margin-top: 5%;
+}
+.spanFooter{
+    font-size: 12px;
+    margin-top: 5%;
+}
+

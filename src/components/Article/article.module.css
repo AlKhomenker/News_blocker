@@ -1,0 +1,13 @@
+.articleBlock{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+.articleImg{
+    width: 540px;
+    margin: 50px 330px 20px 0;
+}
+.articleDiscription{
+    width: 540px;
+    margin-left: 300px;
+}

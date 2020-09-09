@@ -1,0 +1,30 @@
+.title{
+    width: 30%;
+    margin: 50px 0 50px 300px ;
+    text-align: left;
+}
+.h1Title{
+    color: #004FEC;
+}
+.pTitle{
+    margin: 25px 0;
+    color: rgba(51, 61, 81, 0.5);
+}
+.pTitleBlack{
+    margin-top: 25px;
+    color: #333D51;
+}
+.spanTitle{
+    color: #004FEC;
+}
+.historyTeam{
+    border-left: 5px solid #004fec;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 50px;
+    padding: 20px;
+    font-weight: bold;
+    background: #333d51;
+    border-radius: 5px;
+    color: white;
+}

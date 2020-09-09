@@ -1,0 +1,10 @@
+.historyBlock{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+
+.historyImg{
+    width: 540px;
+    margin: 50px 330px 250px 0;
+}

@@ -1,0 +1,33 @@
+.newsItemBlock{
+    width: 350px;
+    height: 290px;
+    position: relative;
+    margin: 30px;
+}
+.navLinkHomePage {
+    text-decoration: none;
+    color: #333D51;
+}
+.navLinkHomePage:active{
+    text-decoration: none;
+}
+.p{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding-left: 20px;
+    width: 100%;
+    color: rgba(51, 61, 81, 0.5);
+}
+
+.span{
+    float: right;
+    margin-right: 20px;
+    color: rgba(51, 61, 81, 0.5);
+}
+.spanBig{
+    float: right;
+    font-size: 30px;
+    margin-right: 20px;
+    color: #333D51;
+}

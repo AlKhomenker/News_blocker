@@ -1,0 +1,15 @@
+.h6{
+    border-left: 5px solid  #004FEC;
+    padding: 20px;
+    cursor: pointer;
+}
+.h6:hover{
+    background: #333d51;
+    border-radius: 5px;
+    padding: 20px;
+    color: white;
+}
+.h6:active{
+    background: #004FEC;
+    color: white;
+}

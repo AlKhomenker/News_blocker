@@ -1,0 +1,61 @@
+.App {
+  color: #333D51;
+}
+h6{ font-size: 25px;
+  margin: 0;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: darkgrey;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #004fec;
+}
+button:focus { outline: none; }
+.scrollTop{
+  position: fixed;
+  top: 670px;
+  right: 0;
+  z-index: 10;
+  border: none;
+  outline: none;
+  background-color: darkgrey;
+  color: white;
+  cursor: pointer;
+  padding: 20px;
+  border-radius: 5px 0 0 5px;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.1), 5px 5px 20px 0 rgba(0, 0, 0, 0.1);
+}
+.scrollTop:active{
+  padding: 18px;
+}
+.scrollTop:hover{
+  background-color: #004FEC;
+}
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
+}

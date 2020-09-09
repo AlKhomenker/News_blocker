@@ -1,0 +1,6 @@
+.newsPageBlock{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 40px 270px 100px 270px;
+}

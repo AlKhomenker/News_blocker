@@ -1,0 +1,60 @@
+.header{
+    background-color: #333d51;
+}
+.ulHeader{
+    list-style-type: none;
+    margin: 0 300px;
+    padding: 0;
+    overflow: hidden;
+}
+
+.aHeader{
+    float: right;
+    display: block;
+    text-align: center;
+    margin: 40px 20px;
+    padding: 0 10px;
+    text-decoration: none;
+    color: white;
+    width: 50px;
+}
+.aHeader_active{
+    float: right;
+    display: block;
+    text-align: center;
+    margin: 40px 20px;
+    padding: 0 10px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-left: 2px solid white;
+    width: 50px;
+}
+.aHeader:hover ,.aHeader_active:hover{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-left: 2px solid white;
+}
+.disable{
+    float: right;
+    display: block;
+    text-align: center;
+    margin: 40px 20px;
+    padding: 0 10px;
+    text-decoration: none;
+    color: white;
+    opacity: 0.5;
+    width: 50px;
+}
+.h6Header {
+    float: left;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 8px 0;
+    margin: 10px;
+}
+.logo{
+    width: 50%;
+}
